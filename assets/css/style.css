@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: tar;
+  background: transparent;
   overflow-y: auto;
 
 }
@@ -235,9 +235,9 @@ h6 {
 #hero {
   width: 110%;
   height: 100vh;
-  background: url("../img/laçart.png") no-repeat;
+  background: url("../img/fundo-bg.png") no-repeat;
   background-size: 100%;
-   
+  
  
   
   
