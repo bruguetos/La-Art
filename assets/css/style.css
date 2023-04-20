@@ -79,8 +79,9 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #e7b0aa;
+  background: tar;
   overflow-y: auto;
+
 }
 
 #header .profile img {
@@ -119,6 +120,7 @@ h6 {
   width: 36px;
   height: 36px;
   transition: 0.3s;
+  
 }
 
 #header .profile .social-links a:hover {
@@ -184,7 +186,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #000000;
 }
 
 .nav-menu a:hover i,
@@ -193,6 +195,9 @@ h6 {
 .nav-menu li:hover>a i {
   color: #EE5D94;
 }
+
+
+
 
 /* Mobile Navigation */
 .mobile-nav-toggle {
@@ -228,10 +233,14 @@ h6 {
 # Hero Section BACKGROUD- IMG
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
+  width: 110%;
   height: 100vh;
   background: url("../img/laçart.png") no-repeat;
   background-size: 100%;
+   
+ 
+  
+  
 }
 
 #hero:before {
